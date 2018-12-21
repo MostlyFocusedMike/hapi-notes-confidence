@@ -1,0 +1,24 @@
+{
+  "name": "hapi-notes-confidence",
+  "version": "1.0.0",
+  "description": "practice using the hapi confidence plugin",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MostlyFocusedMike/hapi-notes-confidence.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MostlyFocusedMike/hapi-notes-confidence/issues"
+  },
+  "homepage": "https://github.com/MostlyFocusedMike/hapi-notes-confidence#readme",
+  "dependencies": {
+    "confidence": "^4.0.1",
+    "dotenv": "^6.2.0"
+  }
+}
