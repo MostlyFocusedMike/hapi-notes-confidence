@@ -13,3 +13,6 @@ const store = new Confidence.Store({
 
 const value = store.get('/', process.env);
 console.log(value);
+
+const meta = store.meta('/c', process.env);
+console.log('meta: ', meta);
